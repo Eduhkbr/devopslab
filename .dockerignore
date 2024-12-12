@@ -1,0 +1,9 @@
+Dockerfile
+.git
+.github
+.gitignore
+LICENSE
+README.md
+test.py
+__pycache__
+.pytest_cache
